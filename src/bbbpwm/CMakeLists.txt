@@ -20,7 +20,7 @@ endif()
 include_directories(include)
 add_library(bbbpwm
 	    src/bbbpwm.cpp
-	    BlackCore.cpp
+	    src/BlackCore.cpp
 	    )
 
 
