@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>bbbgpio</name>
+  <name>bbbpwm</name>
   <version>0.0.0</version>
-  <description>The bbbgpio package</description>
+  <description>The bbbpwm package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="pkumar@isis.vanderbilt.edu">Pranav Srinivas Kumar</maintainer>
+  <maintainer email="pkumar@isis.vanderbilt.edu">Dexter Watkins</maintainer>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
